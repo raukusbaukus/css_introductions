@@ -1,0 +1,26 @@
+* {
+  margin: 5%;
+  padding: 0;
+}
+
+body {
+  color: red;
+  background-color: blue;
+}
+
+header, main, footer {
+  padding: 1rem;
+  background-color: black;
+}
+
+main {
+  background-color: yellow;
+}
+
+footer {
+  background-color: grey;
+}
+
+a {
+  color: purple;
+}
